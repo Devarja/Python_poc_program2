@@ -1,0 +1,5 @@
+[
+    {"id":1,"s_name":"tom","age":22,"place":"newyork"},
+    {"id":2,"s_name":"alice","age":25,"place":"washington"},
+    {"id":3,"s_name":"ram","age":24,"place":"india"}
+]
